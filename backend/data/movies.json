@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "T2",
+        "date" : "July 1991",
+        "actors" : ["Arnold Sczwartzneger", "Linda Hamilton", "Edward Furlong"],
+        "poster" : "images/T2.jfif",
+        "rating" : 5
+    },
+    {
+        "name" : "Rocky 4",
+        "date" : "November 1985",
+        "actors" : ["Sylvester Stallone", "Carl Weathers", "Dolf Lundgren"],
+        "poster" : "images/rocky4.jfif",
+        "rating" : 5
+    },
+    {
+        "name" : "Rambo: Last Blood",
+        "date" : "September 18, 2019",
+        "actors" : ["Sylvester Stallone", "Paz Vega, Sergio Peris-Mencheta"],
+        "poster" : "images/rambo.jpg",
+        "rating" : 4
+    },
+    {
+        "name" : "Home Alone 3",
+        "date" : "December 16, 1997",
+        "actors" : ["Alex D. Linz ", "David Thornton", "Scarlett Johansson"],
+        "poster" : "images/HA3.jpg",
+        "rating" : 3
+    }
+]
