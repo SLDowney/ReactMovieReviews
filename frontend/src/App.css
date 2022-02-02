@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -37,54 +37,11 @@
   }
 }
 
-.nav {
-  color: black;
+#nav {
   text-decoration: small-caps;
-  padding: 5px;
 }
 
-.displayMovies {
-  display:inline-table;
-  text-align: left;
-}
-
-.moviePoster {
-  float: right;
-}
-
-.movieInfo {
-  padding-left: 10px;
-}
-
-.row { 
-  display: inline-flex;
-
-}
-
-.column {
-  flex: auto;
-  padding: 10px;
-  height: auto;
-}
-
-.formDiv {
-  text-align: left;
-  margin-left: 40%;
-  margin-top: 20px;
-}
-
-.poster {
-  margin-top: 10px;
-}
-.actors {
-  margin-top: 10px;
-}
-.date {
-  margin-top: 10px;
-}
-.rating {
-  margin-top: 10px;
-}
 .submitButton {
   margin-top: 10px;
+  margin-left: 10px;
 }

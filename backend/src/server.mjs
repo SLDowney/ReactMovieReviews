@@ -10,13 +10,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 
-let movieData = undefined;
-fs.readFile("./data/movies.json", "utf8", (err, data) => {
-    console.log(err)
-    console.log(data)
-    movieData = data;
-});
-
 
 const app = express();
 app.use(express.static(path.join(__dirname, 'build')));
